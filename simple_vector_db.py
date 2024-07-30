@@ -1,5 +1,4 @@
 import numpy as np
-from scipy.spatial import distance
 
 class VectorDatabase:
     def __init__(self):
@@ -36,3 +35,4 @@ class VectorDatabase:
 
         distances.sort(key=lambda x: x[1], reverse=True) # Sort by cosine similarity
         return distances[:top_k]
+
