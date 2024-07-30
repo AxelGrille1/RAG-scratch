@@ -6,7 +6,6 @@ This project is a learning exercise designed to enhance my skills in modern AI t
 - Retrieval-Augmented Generation (RAG) Architecture: Developing a RAG system to combine the strengths of retrieval-based and generation-based models.
 - Cloud Deployment: Deploying the entire system on the cloud for scalability and accessibility.
 
-- 
 This project is a work in progress and will evolve as I expand my knowledge and capabilities in these areas.
 
 -------------------------------------------------------------------------
